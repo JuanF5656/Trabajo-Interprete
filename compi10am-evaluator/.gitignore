@@ -1,0 +1,19 @@
+# Binarios y artefactos de compilación
+/compi
+/compi.exe
+/bin/
+/dist/
+*.test
+*.out
+
+# Cobertura y perfiles
+coverage.txt
+coverage.html
+*.prof
+
+# Archivos locales del editor y del sistema
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
